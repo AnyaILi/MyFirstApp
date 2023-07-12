@@ -10,7 +10,7 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
-            Text("Pretty Butterfly")
+            Text("Pretty Butterfly!")
                 .font(.title)
                 .foregroundColor(Color.purple)
             Image("IMG_0688")
